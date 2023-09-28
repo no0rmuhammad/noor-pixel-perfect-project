@@ -1,0 +1,13 @@
+
+.bar-clr{
+    background-color: black !important;
+}
+.list-style{
+    text-decoration: none;
+    color: white;
+    list-style: none;
+}
+.padding-btm{
+    border-bottom: 2px solid rgba(11, 54, 59, 1) !important;
+
+}

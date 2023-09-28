@@ -1,0 +1,25 @@
+.hero-bg-clr{
+    background-color:rgba(251, 247, 236, 1);
+}
+.heading-1 {
+  font-size: 4.5vw;
+  color: black;
+}
+span {
+  color: rgba(117, 107, 238, 1) !important;
+}
+.para {
+  font-size: 1rem;
+}
+.hero-btn {
+  background-color: rgba(117, 107, 238, 1) !important ;
+  font-size: 1rem !important;
+}
+@media (max-width: 767px) {
+    .centered-column {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+}

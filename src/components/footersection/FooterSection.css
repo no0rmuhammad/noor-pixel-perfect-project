@@ -1,0 +1,16 @@
+.size14-700w {
+    font-size: 14px !important;
+    font-weight: 700 !important;
+}
+.mb-li {
+    list-style: none;
+    margin-bottom: 16px;
+    font-size: 14px !important;
+    /* font-weight: 700 !important; */
+}
+.footer-clr{
+    background-color: black;
+}
+.li-style{
+    list-style: none !important;
+}
